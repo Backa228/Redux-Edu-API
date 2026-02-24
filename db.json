@@ -1,0 +1,14 @@
+[
+{
+    "id": 1,
+    "text": "Learn HTML and CSS",
+    "priority": "Medium",
+    "completed": false,
+  },
+  {
+    "id": 2,
+    "text": "Discover Redux",
+    "priority": "High",
+    "completed": false,
+  }
+]
